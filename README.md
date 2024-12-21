@@ -5,8 +5,9 @@ This project demonstrates the use of **transfer learning** with a **pre-trained 
 
 
 ---
-- **Cactus in my Garden 🌵**:
-  ![cactus](images/cactus.jpg)
+### Cactus in my Garden 🌵:
+
+ ![cactus](images/cactus.jpg)
 ---
 ## Tools Overview
 - **Google Colab**
@@ -49,10 +50,10 @@ While the original image files are unavailable, the folder structure and preproc
 
 ### **Dataset Example**
 Below are examples of the dataset structure:
-- **Astrophytum asterias [1]**:
+### Astrophytum asterias [1]:
   ![Astrophytum Dataset](images/astro_dataset.png)
 
-- **Non-Astrophytum asterias [0]**:
+### Non-Astrophytum asterias [0]:
   ![Non-Astrophytum Dataset](images/not_astro_dataset.png)
 
 ### **Preprocessing**
